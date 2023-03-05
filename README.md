@@ -10,7 +10,7 @@
   <h2 align="center">Anon -  eCommerce Website</h2>
   <p>Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.</p>
 
-<a href="https://meek-kashata-e5cd2e.netlify.app/"><strong>➥ Live Demo</strong></a>
+<a href="https://anon-ecommerce-design.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
